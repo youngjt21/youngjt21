@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @youngjt21
-- 👀 I’m interested in learning how to create new projects and learning new skills.
-- 🌱 I’m currently learning to learn a basic language and work my way up to something more specialized for front-end development and/or cyber security.
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, my name is James Young, and this is my GitHub Profile.
+- 👀 I’m interested in learning how to create new projects using data analysis and learning new skills like Python and SQL.
+- 🌱 I’m currently learning Python and work my way up to something more specialized for cyber security and/or data analysis.
+- 💞️ I’m looking to collaborate on introductory projects and python basics.
 - 📫 How to reach me ...
 
 <!---
